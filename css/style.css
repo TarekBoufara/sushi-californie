@@ -1,0 +1,57 @@
+h1 {
+  color: rgb(236, 57, 6);
+  text-align: center;
+  font-size: 45px;
+}
+p {
+  font-family: verdana;
+  font-size: 18px;
+  text-align: center;
+}
+
+.t1{
+	color:rgb(236, 57, 6);
+	font-size: 30px;
+}
+.t2{
+	color:rgb(236, 57, 6);
+	font-size: 30px;
+
+}
+.t3{
+	color:rgb(236, 57, 6);
+	font-size: 30px;
+
+}
+.t4{
+	color:rgb(236, 57, 6);
+	font-size: 30px;
+
+}
+img{
+ 	 border-radius: 50%;
+ 	 width: 50%;
+}
+.b1{
+	font-size: 23px;
+	font-family: cursive;
+}
+.b2{
+	font-size: 23px;
+	font-family: cursive;
+}
+.b3{
+	font-size: 23px;
+	font-family: cursive;
+}
+.b4{
+	font-size: 23px;
+	font-family: cursive;
+}
+.container{
+	background-color: #e5eeeA;
+	padding: 24px;
+	border-radius: 24px;
+	margin: 24px;
+
+}
